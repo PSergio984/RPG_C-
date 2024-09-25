@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WPFUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62aacdb5f07a4f8de00f6ed7264bfd7c3bd33ea9")]
 [assembly: System.Reflection.AssemblyProductAttribute("WPFUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WPFUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
