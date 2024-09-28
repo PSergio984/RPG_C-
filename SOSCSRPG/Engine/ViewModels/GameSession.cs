@@ -8,7 +8,7 @@ namespace Engine.ViewModels
 {
     public class GameSession
     {
-        Player CurrentPlayer { get; set; }
+       public Player CurrentPlayer { get; set; }
         public GameSession()
         {
             CurrentPlayer = new Player();
