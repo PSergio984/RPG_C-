@@ -11,10 +11,9 @@ namespace Engine.ViewModels
        public Player CurrentPlayer { get; set; }
         public GameSession()
         {
-
             CurrentPlayer = new Player();
             CurrentPlayer.Name = "Sergio";
-            CurrentPlayer.Gold = 100000;
+            CurrentPlayer.Gold = 1000000;
         }
     }
 }
