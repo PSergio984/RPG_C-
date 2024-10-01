@@ -18,3 +18,8 @@ C:\Users\Eric\source\repos\RPG_C_SHARP\SOSCSRPG\WPFUI\obj\Debug\net8.0-windows\r
 C:\Users\Eric\source\repos\RPG_C_SHARP\SOSCSRPG\WPFUI\obj\Debug\net8.0-windows\WPFUI.pdb
 C:\Users\Eric\source\repos\RPG_C_SHARP\SOSCSRPG\WPFUI\obj\Debug\net8.0-windows\WPFUI.genruntimeconfig.cache
 C:\Users\Eric\source\repos\RPG_C_SHARP\SOSCSRPG\WPFUI\obj\Debug\net8.0-windows\ref\WPFUI.dll
+C:\Users\Eric\source\repos\RPG_C_SHARP\SOSCSRPG\WPFUI\bin\Debug\net8.0-windows\Engine.dll
+C:\Users\Eric\source\repos\RPG_C_SHARP\SOSCSRPG\WPFUI\bin\Debug\net8.0-windows\Engine.pdb
+C:\Users\Eric\source\repos\RPG_C_SHARP\SOSCSRPG\WPFUI\obj\Debug\net8.0-windows\WPFUI.csproj.AssemblyReference.cache
+C:\Users\Eric\source\repos\RPG_C_SHARP\SOSCSRPG\WPFUI\obj\Debug\net8.0-windows\WPFUI.sourcelink.json
+C:\Users\Eric\source\repos\RPG_C_SHARP\SOSCSRPG\WPFUI\obj\Debug\net8.0-windows\WPFUI.csproj.Up2Date

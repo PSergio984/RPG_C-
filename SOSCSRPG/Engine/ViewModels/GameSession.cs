@@ -13,7 +13,7 @@ namespace Engine.ViewModels
         {
             CurrentPlayer = new Player();
             CurrentPlayer.Name = "Sergio";
-            CurrentPlayer.Gold = 1000000;
+            CurrentPlayer.Runes = 1000000;
         }
     }
 }
