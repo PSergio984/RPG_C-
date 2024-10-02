@@ -7,20 +7,20 @@
         mc:Ignorable="d"
         Title="Elden's Necklace" Height="768" Width="1024">
     <Grid>
-        
+
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="225"/>
         </Grid.RowDefinitions>
-        
+
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="250"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
-        
+
         <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Content="Menu" Background="AliceBlue"/>
-        
+
         <Grid Grid.Row="1" Grid.Column="0" Background="Aquamarine">
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"/>
@@ -49,9 +49,9 @@
             <Label Grid.Row="5" Grid.Column="0" Content="Level:"/>
             <Label Grid.Row="5" Grid.Column="1" Content="{Binding CurrentPlayer.Level}"/>
         </Grid>
-        
-        <Label Grid.Row="1" Grid.Column="1" Content="Game Data" Background="Beige"/>
-        <Label Grid.Row="2" Grid.Column="0" Content="Inventory/Quests" Background="BurlyWood"/>
-        <Label Grid.Row="2" Grid.Column="1" Content="Combat/Movement Controls" Background="Lavender"/>
+
+        <Label Grid.Row="1" Grid.Column="1" Content="Game Data" Background="#FFA7B8D9"/>
+        <Label Grid.Row="2" Grid.Column="0" Content="Inventory/Quests" Background="#D9C092"/>
+        <Label Grid.Row="2" Grid.Column="1" Content="Combat/Movement Controls" Background="#D9B13B"/>
     </Grid>
 </Window>

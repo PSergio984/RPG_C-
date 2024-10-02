@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{9DB5D159-A22A-40D7-A299-F6429A9DD58D}|WPFUI\\WPFUI.csproj|c:\\users\\eric\\source\\repos\\rpg_c_sharp\\soscsrpg\\wpfui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DB5D159-A22A-40D7-A299-F6429A9DD58D}|WPFUI\\WPFUI.csproj|solutionrelative:wpfui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB5D159-A22A-40D7-A299-F6429A9DD58D}|WPFUI\\WPFUI.csproj|c:\\users\\eric\\source\\repos\\rpg_c_sharp\\soscsrpg\\wpfui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9DB5D159-A22A-40D7-A299-F6429A9DD58D}|WPFUI\\WPFUI.csproj|solutionrelative:wpfui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,6 +42,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Eric\\source\\repos\\RPG_C_SHARP\\SOSCSRPG\\WPFUI\\App.xaml",
+              "RelativeDocumentMoniker": "WPFUI\\App.xaml",
+              "ToolTip": "C:\\Users\\Eric\\source\\repos\\RPG_C_SHARP\\SOSCSRPG\\WPFUI\\App.xaml",
+              "RelativeToolTip": "WPFUI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T15:19:12.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "GameSession.cs",
               "DocumentMoniker": "C:\\Users\\Eric\\source\\repos\\RPG_C_SHARP\\SOSCSRPG\\Engine\\ViewModels\\GameSession.cs",
@@ -46,8 +62,7 @@
               "RelativeToolTip": "Engine\\ViewModels\\GameSession.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T15:45:15.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T15:45:15.636Z"
             },
             {
               "$type": "Document",
@@ -59,8 +74,7 @@
               "RelativeToolTip": "Engine\\Models\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T15:42:27.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T15:42:27.657Z"
             },
             {
               "$type": "Document",
