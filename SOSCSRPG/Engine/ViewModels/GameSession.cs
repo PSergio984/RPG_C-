@@ -12,7 +12,7 @@ namespace Engine.ViewModels
         public GameSession()
         {
             CurrentPlayer = new Player();
-            CurrentPlayer.Name = "Sergio";
+            CurrentPlayer.Name = "PSergio";
             CurrentPlayer.Runes = 1000000;
         }
     }
